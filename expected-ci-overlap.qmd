@@ -1,6 +1,6 @@
 ---
 title: "What is the expected confidence interval overlap under a correct synthesis model?"
-format: gfm
+format: html
 ---
 
 
